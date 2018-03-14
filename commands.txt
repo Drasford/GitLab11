@@ -1,0 +1,27 @@
+git init
+touch l1.txt
+git add .
+git commit -m "Initial commit"
+git commit -a -m "modify l1.txt"
+git remote add origin https://github.com/Drasford/GitLab11.git
+git remote -v
+git push -u origin master
+git checkout 01dcf5ddf8c184716af51523b6c71983c5f597ce 
+git checkout master
+git branch logging
+git checkout logging
+touch log.txt
+git add log.txt
+git commit -m "dodavanje na log.txt"
+git push -u origin logging
+git checkout master
+git merge logging
+git push -u origin master
+git branch allcomands
+git checkout allcomands
+touch commands.txt
+git add .
+git commit -m "dodavanje na commands.txt"
+git push -u origin allcomands
+git checkout master
+git rebase allcomands
