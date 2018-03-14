@@ -1,0 +1,11 @@
+commit 01dcf5ddf8c184716af51523b6c71983c5f597ce (HEAD -> logging, origin/master, master)
+Author: dame.ivanovski@students.finki.ukim.mk <dame.ivanovski@students.finki.ukim.mk>
+Date:   Wed Mar 14 18:30:34 2018 +0100
+
+    modify l1.txt
+
+commit 173703c1adc9cfefa87694a069a9d9a19892b27a
+Author: dame.ivanovski@students.finki.ukim.mk <dame.ivanovski@students.finki.ukim.mk>
+Date:   Wed Mar 14 18:29:28 2018 +0100
+
+    Initial comit
