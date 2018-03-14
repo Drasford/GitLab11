@@ -25,3 +25,6 @@ git commit -m "dodavanje na commands.txt"
 git push -u origin allcomands
 git checkout master
 git rebase allcomands
+git commit -a -m "posleden komit"
+git pull
+git push -u origin master
