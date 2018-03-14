@@ -1,4 +1,10 @@
-commit 01dcf5ddf8c184716af51523b6c71983c5f597ce (HEAD -> logging, origin/master, master)
+commit a5d3302efd657d48a7d79c524dd44e13de275411 (HEAD -> master, origin/logging, logging)
+Author: dame.ivanovski@students.finki.ukim.mk <dame.ivanovski@students.finki.ukim.mk>
+Date:   Wed Mar 14 19:11:22 2018 +0100
+
+    dodavanje na log.txt
+
+commit 01dcf5ddf8c184716af51523b6c71983c5f597ce (origin/master, origin/allcomands, allcomands)
 Author: dame.ivanovski@students.finki.ukim.mk <dame.ivanovski@students.finki.ukim.mk>
 Date:   Wed Mar 14 18:30:34 2018 +0100
 
